@@ -3,7 +3,7 @@ tokens/api/secret keys scanner to know what is this [tokens/api/secret] , and te
 
 # Description
 many of times find tokens for api keys or any secret keys and not know what is this token and what is third party which related this token <br>
-For example..
+many of tokens we support..
 
 ```
 slack [api key , access token, etc]
@@ -24,7 +24,7 @@ Facebook [OAuth2.0 token]
 Basic Auth Credentials
 ++ 50 token again
 ```
-
+The Tool will Recognize on token and will tell you how exploit this token [if available]
 The tool have many of regex in file regex.txt you can edit it if you want add new regex <br>
 The tool will be updated and will provide tokens/api/secrets every time 
 
