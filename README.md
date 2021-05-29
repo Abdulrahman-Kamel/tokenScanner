@@ -29,7 +29,7 @@ The tool have many of regex in file regex.txt you can edit it if you want add ne
 The tool will be updated and will provide tokens/api/secrets every time 
 
 # Install
-pip3 install -r requirements.txt
+sudo pip3 install colorama yaml re
 
 # Usage 
 python3 tokenScanner.py \<TheToken\>
