@@ -5,5 +5,5 @@ tokens/api/secret keys scanner to know what is this [tokens/api/secret] , and te
 pip3 install -r requirements.txt
 
 # Usage 
-python3 tokenScanner.py <TheToken>
+python3 tokenScanner.py \<TheToken\>
   
