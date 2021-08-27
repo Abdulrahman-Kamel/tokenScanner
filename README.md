@@ -37,4 +37,5 @@ sudo pip install --ignore-installed PyYAML
 # Usage 
 python3 tokenScanner.py \<TheToken\>
 
-### Notic: extract_with_nuclei.yaml as template file to extract all this tokens from urls by nuclei tool [Develop by me] you can use it.
+### Notic: extract_with_nuclei.yaml as template file to extract all this tokens from urls by nuclei tool <br>
+The Template [written by me] you can use it.
