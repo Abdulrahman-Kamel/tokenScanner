@@ -36,7 +36,7 @@ class main():
 					print(Fore.RED+"exploit: "+Fore.RESET,exploit)
 				exit(1)
 
-		print(Fore.YELLOW+"Sory unknown this token"+Fore.RESET)
+		print(Fore.YELLOW+"Sorry, unknown token"+Fore.RESET)
 
 if __name__ == '__main__':
 	
